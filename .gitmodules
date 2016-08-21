@@ -4,3 +4,12 @@
 [submodule "NotificationPlus"]
 	path = NotificationPlus
 	url = https://github.com/organization/NotificationPlus.git
+[submodule "Chatty"]
+	path = Chatty
+	url = https://github.com/organization/Chatty.git
+[submodule "SoldierGame"]
+	path = SoldierGame
+	url = https://github.com/organization/SoldierGame
+[submodule "NetherWorld"]
+	path = NetherWorld
+	url = https://github.com/organization/NetherWorld.git
