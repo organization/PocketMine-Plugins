@@ -1,0 +1,3 @@
+[submodule "SimpleArea"]
+	path = SimpleArea
+	url = https://github.com/organization/SimpleArea.git
